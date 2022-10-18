@@ -1,5 +1,5 @@
 # Cyberswaycurity
 
-This github contains challenge solutions and walkthrougs for CTF competitions.
+I use my github as a place to keep solutions for problems I have solved in CTF competitions and coding challenges. It may also become a place to share open source tools I create and work on.
 
-There will also be explanations of cybersecurity topics as I continue to learn about cybersecurity.
+-sway
